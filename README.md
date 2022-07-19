@@ -162,7 +162,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/upcloud-7B00FF?style=for-the-badge&logo=upcloud&logoColor=white" />                   | `https://img.shields.io/badge/upcloud-7B00FF?style=for-the-badge&logo=upcloud&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />                     | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white`                     |
 
-## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-profile)
+## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-   profile)
 
 | Badge                                                                                                                    | URL                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
